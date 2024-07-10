@@ -1,0 +1,140 @@
+[{
+  "vendorId" : 1,
+  "features" : {
+    "name" : "product3",
+    "price" : {
+      "cost" : 56.32,
+      "discount" : 3.06,
+      "currency" : "mxn"
+    },
+    "stock" : 56,
+    "availability" : true,
+    "pictures" : [{
+      "id" : 0,
+      "description" : "image1",
+      "path" : "/home/user/Documents/images"
+    },
+      {
+        "id" : 1,
+        "description" : "image2",
+        "path" : "/home/user/Documents/images"
+      }],
+    "dimensions" : {
+      "width" : 10.23,
+      "height" : 25.63,
+      "length" : 16.10,
+      "weight" : 1.23,
+      "unit" : "cm",
+      "weightUnit" : "kg"
+    }
+  },
+  "categories" : [{
+    "categoryId" : 2
+  },
+    {
+      "categoryId" : 6
+    }
+  ],
+  "comments" : {"cmt1" :{
+    "id" : 12,
+    "ownerId" : 3,
+    "explanation" : "best product :)"
+  }, "cmt2" :{
+    "id" : 13,
+    "ownerId" : 6,
+    "explanation" : "piece of sht :("
+  }}
+}, {
+  "vendorId" : 1,
+  "features" : {
+    "name" : "product2",
+    "price" : {
+      "cost" : 56.32,
+      "discount" : 3.06,
+      "currency" : "mxn"
+    },
+    "stock" : 56,
+    "availability" : true,
+    "pictures" : [{
+      "id" : 0,
+      "description" : "image1",
+      "path" : "/home/user/Documents/images"
+    },
+      {
+        "id" : 1,
+        "description" : "image2",
+        "path" : "/home/user/Documents/images"
+      }],
+    "dimensions" : {
+      "width" : 10.23,
+      "height" : 25.63,
+      "length" : 16.10,
+      "weight" : 1.23,
+      "unit" : "cm",
+      "weightUnit" : "kg"
+    }
+  },
+  "categories" : [{
+    "categoryId" : 2
+  },
+    {
+      "categoryId" : 6
+    }
+  ],
+  "comments" : {"cmt1" :{
+    "id" : 12,
+    "ownerId" : 3,
+    "explanation" : "best product :)"
+  }, "cmt2" :{
+    "id" : 13,
+    "ownerId" : 6,
+    "explanation" : "piece of sht :("
+  }}
+},
+{
+  "vendorId" : 1,
+  "features" : {
+    "name" : "product1",
+    "price" : {
+      "cost" : 56.32,
+      "discount" : 3.06,
+      "currency" : "mxn"
+    },
+    "stock" : 56,
+    "availability" : true,
+    "pictures" : [{
+      "id" : 0,
+      "description" : "image1",
+      "path" : "/home/user/Documents/images"
+    },
+      {
+        "id" : 1,
+        "description" : "image2",
+        "path" : "/home/user/Documents/images"
+      }],
+    "dimensions" : {
+      "width" : 10.23,
+      "height" : 25.63,
+      "length" : 16.10,
+      "weight" : 1.23,
+      "unit" : "cm",
+      "weightUnit" : "kg"
+    }
+  },
+  "categories" : [{
+    "categoryId" : 2
+    },
+    {
+      "categoryId" : 6
+    }
+  ],
+  "comments" : {"cmt1" :{
+    "id" : 12,
+    "ownerId" : 3,
+    "explanation" : "best product :)"
+  }, "cmt2" :{
+      "id" : 13,
+      "ownerId" : 6,
+      "explanation" : "piece of sht :("
+  }}
+}]
